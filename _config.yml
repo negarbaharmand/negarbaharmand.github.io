@@ -26,10 +26,10 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: negarbaharmand # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: negarbaharmand # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
     - https://github.com/negarbaharmand # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/negarbaharmand
 
 google_site_verification: # fill in to your verification string
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "./assets/images/avatar.jpeg"
+avatar: "./assets/images/avatar.JPG"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
