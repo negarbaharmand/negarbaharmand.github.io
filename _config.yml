@@ -16,7 +16,7 @@ timezone:
 
 title: Negar's Nook # the main title
 
-tagline: Dev Diaries # it will display as the sub-title
+tagline: Journey Through Coding! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
