@@ -5,7 +5,7 @@ categories: [Java, Spring, Data]
 tags: [java, spring, database] # TAG names should always be lowercase
 ---
 
-Lately I got to wirk with Spring Data JPA, a practical tool that makes the database-related tasks feel like a walk in the park.
+Lately I got to work with Spring Data JPA, a practical tool that makes the database-related tasks feel like a walk in the park.
 
 One of the most incredible things about Spring Data JPA is how it simplifies the interaction with databases, and it all starts with repositories.
 

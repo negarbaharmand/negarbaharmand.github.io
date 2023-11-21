@@ -5,7 +5,7 @@ categories: [Java, Spring, Data]
 tags: [java, spring, database, api] # TAG names should always be lowercase
 ---
 
-oday, I'd like to dive into the backend architecture of the Marketplace API project. This backend, designed for managing advertisements in an online marketplace, is a testament to efficient Java and Spring Boot development
+Today, I'd like to dive into the backend architecture of the Marketplace API project. This backend, designed for managing advertisements in an online marketplace, is a testament to efficient Java and Spring Boot development
 
 ## Exploring the Marketplace API
 
