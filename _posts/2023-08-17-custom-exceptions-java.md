@@ -5,7 +5,7 @@ categories: [JAVA, Exception]
 tags: [java, exception] # TAG names should always be lowercase
 ---
 
-Hey there! Today, I want to dive into a topic that's been on my mind as I've been learning the ropes of Java programming 'custom exceptions'. I believe exceptions in Java are like safety nets that catch errors and help our programs run smoothly. The exciting part is that you can create your very own custom exceptions, tailored to your specific needs.
+Today, I want to dive into a topic that's been on my mind as I've been learning the ropes of Java programming 'custom exceptions'. I believe exceptions in Java are like safety nets that catch errors and help our programs run smoothly. The exciting part is that you can create your very own custom exceptions, tailored to your specific needs.
 
 ### What are custom exceptions, and why do I need them?
 

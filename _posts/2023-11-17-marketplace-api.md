@@ -2,10 +2,10 @@
 title: "Building a Robust Backend for a Dynamic Marketplace "
 date: 2023-11-17 08:45:00 +0200
 categories: [Java, Spring, Data]
-tags: [java, spring, database] # TAG names should always be lowercase
+tags: [java, spring, database, api] # TAG names should always be lowercase
 ---
 
-oday, I'm excited to dive into the backend architecture of the Marketplace API project. This backend, designed for managing advertisements in an online marketplace, is a testament to efficient Java and Spring Boot development
+oday, I'd like to dive into the backend architecture of the Marketplace API project. This backend, designed for managing advertisements in an online marketplace, is a testament to efficient Java and Spring Boot development
 
 ## Exploring the Marketplace API
 

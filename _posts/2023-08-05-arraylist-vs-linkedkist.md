@@ -7,7 +7,6 @@ tags: [java, collections] # TAG names should always be lowercase
 
 ![List](/assets/images/list1.jpg)
 
-Hey there, fellow Java enthusiasts!👩🏻‍💻
 Today, I want to share a little discovery I made on my Java learning journey - the battle of ArrayList vs. LinkedList.
 
 ArrayList and LinkedList are both classes that implement the List interface in Java. They allow you to store and manipulate collections of data, such as integers, strings, or custom objects. But here's where it gets interesting - they do it in different ways.
