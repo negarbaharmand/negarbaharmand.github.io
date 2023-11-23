@@ -38,10 +38,13 @@ Exploring the capabilities of the Marketplace API using Swagger was a revelation
 
 3. Dive into the available endpoints, review request/response details, and interact with the API directly from the Swagger UI.
 
+![Swagger Overview](/assets/images/swagger-marketplace.jpg)
+
 ### Javadoc Documentation
 
 The Javadoc documentation is like a map guiding through the classes, methods, and overall structure of the codebase.
 
+![Swagger Overview](/assets/images/javadoc.jpg)
 For a deeper understanding of the project's architecture and implementation details, refer to the Javadoc documentation:
 
 - [Javadoc Documentation](https://negarbaharmand.com/marketplace-docs/index.html)
