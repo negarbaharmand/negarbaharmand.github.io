@@ -1,8 +1,8 @@
 ---
 title: Calculator React App
 date: 2023-09-29 08:00:00 +0200
-categories: [JavaScript, React]
-tags: [javascript, react] # TAG names should always be lowercase
+categories: [JavaScript, React, Project]
+tags: [javascript, react, project] # TAG names should always be lowercase
 ---
 
 This project is a calculator React app. I used the CSS Grid to lay out the whole calculator. The output box contains two sections, including current-operand (where we are in the act of typing) and previous-operand(the last number and the operation sign).

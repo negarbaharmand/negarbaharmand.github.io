@@ -1,8 +1,8 @@
 ---
 title: "Introducing Deliciousness: A Multipage React App for Food Enthusiasts"
 date: 2023-10-01 08:00:00 +0200
-categories: [JavaScript, React, API]
-tags: [javascript, react] # TAG names should always be lowercase
+categories: [JavaScript, React, Project]
+tags: [javascript, react, project] # TAG names should always be lowercase
 ---
 
 I'm very excited to demonstrate one of my latest projects, Deliciousness, a multipage **React app** that combines my love for coding and food recipes. As a junior-level developer, I'm constantly learning and experimenting, and this app is a testament to my journey. You can check out the app repository on GitHub [here](https://github.com/negarbaharmand/deliciousness.git) and try it live [here](https://negarbaharmand.github.io/deliciousness/).

@@ -1,8 +1,8 @@
 ---
 title: "Building a Backend for an Online Marketplace: My Coding Journey"
 date: 2023-11-17 08:45:00 +0200
-categories: [Java, Spring, Data]
-tags: [java, spring, database, api] # TAG names should always be lowercase
+categories: [Java, Spring, Project]
+tags: [java, spring, database, api, project] # TAG names should always be lowercase
 ---
 
 Today, I'd like to dive into the backend architecture of the Marketplace API project. This backend, designed for managing advertisements in an online marketplace, is a testament to efficient Java and Spring Boot development
