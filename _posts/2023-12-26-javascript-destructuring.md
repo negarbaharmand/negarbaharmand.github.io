@@ -1,6 +1,6 @@
 ---
 title: "TIL JavaScript Destructuring: Unpacking the Power of Objects and Arrays"
-date: 2023-12-27 08:25:00 +0200
+date: 2023-12-26 08:25:00 +0200
 categories: [JavaScript]
 tags: [javascript, wilt, array] # TAG names should always be lowercase
 ---
